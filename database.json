@@ -1,0 +1,1210 @@
+{
+  "users": {
+    "6289671842736@s.whatsapp.net": {
+      "exp": 2987,
+      "diamond": 70,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "4k",
+      "age": 20,
+      "regTime": 1690825790446,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 4,
+      "role": "Apprentice",
+      "autolevelup": true,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "62895602242948@s.whatsapp.net": {
+      "exp": 9082,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "Razan",
+      "age": 30,
+      "regTime": 1690761399844,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "62895360991735@s.whatsapp.net": {
+      "exp": 1574,
+      "diamond": 68,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "𝕷𝖆𝖆",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "62859106946251@s.whatsapp.net": {
+      "exp": 1226,
+      "diamond": 61,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Zen",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6285697220614@s.whatsapp.net": {
+      "exp": 16,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "5KBotz",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6285883300437@s.whatsapp.net": {
+      "exp": 971,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Apa Bg",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6283813984402@s.whatsapp.net": {
+      "exp": 223,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "𝙍𝙚𝙨𝙯𝙄𝙇𝙞𝙠𝙚𝙔𝙤𝙪々",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 2,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "62895383100673@s.whatsapp.net": {
+      "exp": 1290,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Aku",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6288707767836@s.whatsapp.net": {
+      "exp": 78,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "@𝙀𝙭𝙗𝙤𝙮𝙨𝙨___",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6285770019811@s.whatsapp.net": {
+      "exp": 26,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Garinn🤨",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6281224062366@s.whatsapp.net": {
+      "exp": 26,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "You Don't Know My Name",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6289525435604@s.whatsapp.net": {
+      "exp": 6,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "RIZKI_ 14",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6282112737577@s.whatsapp.net": {
+      "exp": 18,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "-_-",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6281213430573@s.whatsapp.net": {
+      "exp": 75,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Razan Tehnik",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6281288001724@s.whatsapp.net": {
+      "exp": 27,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "mbuhh",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6281316919334@s.whatsapp.net": {
+      "exp": 57,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Razan Tehnik",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "62857035017444@s.whatsapp.net": {
+      "exp": 0,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "neoxr",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6281585369097@s.whatsapp.net": {
+      "exp": 28,
+      "diamond": 69,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "꧁☆★ 𝐼𝒷𝓃𝓊 ★☆꧂",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    }
+  },
+  "chats": {
+    "6289671842736@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "62895602242948@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "120363163303247744@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": true,
+      "expired": 0
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "120363142246794296@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "120363133990252963@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "120363043138568216@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "6281288001724@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "6285697220614@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "6285883300437@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "62859106946251@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "62895360991735@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "62895383100673@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "6282112737577@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "6281213430573@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "6283813984402@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "6281316919334@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "120363151960454794@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "62857035017444@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "main-menu.js": {
+      "total": 80,
+      "success": 80,
+      "last": 1691021759339,
+      "lastSuccess": 1691021759339
+    },
+    "tools-openai.js": {
+      "total": 13,
+      "success": 5,
+      "last": 1690860149472,
+      "lastSuccess": 1690859854576
+    },
+    "nsfw-nime.js": {
+      "total": 5,
+      "success": 4,
+      "last": 1690825774961,
+      "lastSuccess": 1690825774961
+    },
+    "rg-register.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1690825790447,
+      "lastSuccess": 1690825790447
+    },
+    "enable.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1690858111078,
+      "lastSuccess": 1690858111078
+    },
+    "game-tebakkata.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1690804010927,
+      "lastSuccess": 1690804010927
+    },
+    "game-tebakkata-hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690761486564,
+      "lastSuccess": 1690761486564
+    },
+    "dl-play2.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1690903103913,
+      "lastSuccess": 1690903103913
+    },
+    "fun-tomp3.js": {
+      "total": 19,
+      "success": 19,
+      "last": 1690948751522,
+      "lastSuccess": 1690948751522
+    },
+    "info-creator.js": {
+      "total": 16,
+      "success": 16,
+      "last": 1690948263395,
+      "lastSuccess": 1690948263395
+    },
+    "whatmusic.js": {
+      "total": 11,
+      "success": 8,
+      "last": 1690948983328,
+      "lastSuccess": 1690948983328
+    },
+    "dl-tiktok.js": {
+      "total": 36,
+      "success": 34,
+      "last": 1691023383624,
+      "lastSuccess": 1691023383624
+    },
+    "game-tictactoe.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1690804244285,
+      "lastSuccess": 1690804244285
+    },
+    "sticker-sticker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690805222690,
+      "lastSuccess": 1690805222690
+    },
+    "savefile.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1690805352802,
+      "lastSuccess": 0
+    },
+    "tools-musikapa.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1690805852535,
+      "lastSuccess": 1690805852535
+    },
+    "dl-yta.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1690948737942,
+      "lastSuccess": 1690948737942
+    },
+    "main-script.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1690948531123,
+      "lastSuccess": 1690948531123
+    },
+    "cmd-list.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690809765984,
+      "lastSuccess": 1690809765984
+    },
+    "fun-alay.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690809979373,
+      "lastSuccess": 1690809979373
+    },
+    "_pushkontak.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1690810108871,
+      "lastSuccess": 1690810108871
+    },
+    "random-anime.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690810517288,
+      "lastSuccess": 1690810517288
+    },
+    "gp-warning.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1690994833953,
+      "lastSuccess": 1690994833953
+    },
+    "main-ping.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1690948195802,
+      "lastSuccess": 1690948195802
+    },
+    "owner-setppbot.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1690813032935,
+      "lastSuccess": 1690813032935
+    },
+    "tools-readviewonce.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1690813277352,
+      "lastSuccess": 1690813277352
+    },
+    "tools-tourl.js": {
+      "total": 5,
+      "success": 1,
+      "last": 1690811944907,
+      "lastSuccess": 1690811944907
+    },
+    "fun-apakah.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690812145713,
+      "lastSuccess": 1690812145713
+    },
+    "dl-twitter.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1690812429916,
+      "lastSuccess": 1690812429916
+    },
+    "dl-tiktokslide.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1690812901632,
+      "lastSuccess": 0
+    },
+    "thss.js": {
+      "total": 13,
+      "success": 12,
+      "last": 1690991544122,
+      "lastSuccess": 1690991544122
+    },
+    "dl-tiktokmp3.js": {
+      "total": 11,
+      "success": 0,
+      "last": 1690822327406,
+      "lastSuccess": 0
+    },
+    "dl-instagram.js": {
+      "total": 8,
+      "success": 3,
+      "last": 1690936378056,
+      "lastSuccess": 1690936378056
+    },
+    "dl-tiktokaudio.js": {
+      "total": 16,
+      "success": 0,
+      "last": 1691021649475,
+      "lastSuccess": 0
+    },
+    "_cek.js": {
+      "total": 18,
+      "success": 15,
+      "last": 1690991515297,
+      "lastSuccess": 1690991515297
+    },
+    "av-bot.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1690939846094,
+      "lastSuccess": 1690939846094
+    },
+    "av-menu.js": {
+      "total": 8,
+      "success": 7,
+      "last": 1690941096002,
+      "lastSuccess": 1690940330344
+    },
+    "fun-ceksifat.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690856465819,
+      "lastSuccess": 1690856465819
+    },
+    "openai.js": {
+      "total": 8,
+      "success": 0,
+      "last": 1690859720085,
+      "lastSuccess": 0
+    },
+    "tools-translate.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1690993784175,
+      "lastSuccess": 1690993784175
+    },
+    "owner-addprem.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1690860596341,
+      "lastSuccess": 1690860596341
+    },
+    "main-listprem.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690860607932,
+      "lastSuccess": 1690860607932
+    },
+    "_-NEW-openai.js": {
+      "total": 5,
+      "success": 3,
+      "last": 1690985674452,
+      "lastSuccess": 1690985674452
+    },
+    "fun-wangy.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1690948193082,
+      "lastSuccess": 1690948193082
+    },
+    "fun-plusplus.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1690997060988,
+      "lastSuccess": 1690997060988
+    },
+    "fun-fitnah.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1690939439241,
+      "lastSuccess": 1690939439241
+    },
+    "fun-gaycek.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690939578803,
+      "lastSuccess": 1690939578803
+    },
+    "fun-wibucek.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1690985049037,
+      "lastSuccess": 1690985049037
+    },
+    "vn5.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690942380048,
+      "lastSuccess": 1690942380048
+    },
+    "vn4.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690942531280,
+      "lastSuccess": 1690942531280
+    },
+    "vn6.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1690997013646,
+      "lastSuccess": 1690997013646
+    },
+    "vn9.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1690948234563,
+      "lastSuccess": 1690948234563
+    },
+    "vn11.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690943739692,
+      "lastSuccess": 1690943739692
+    },
+    "econ-balance.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690947120609,
+      "lastSuccess": 1690947120609
+    },
+    "econ-shop.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690947132746,
+      "lastSuccess": 1690947132746
+    },
+    "maker.logos.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1690947209410,
+      "lastSuccess": 0
+    },
+    "vn12.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690948430258,
+      "lastSuccess": 1690948430258
+    },
+    "image-cina.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690948589695,
+      "lastSuccess": 1690948589695
+    },
+    "fun-toptt.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1690948915007,
+      "lastSuccess": 1690948915007
+    },
+    "main-menfes.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690995789116,
+      "lastSuccess": 1690995789116
+    },
+    "creator.js": {
+      "total": 10,
+      "success": 0,
+      "last": 1691020374665,
+      "lastSuccess": 0
+    },
+    "tool-zodiac.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1691021570664,
+      "lastSuccess": 1691021570664
+    },
+    "fun-fun.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1691021791098,
+      "lastSuccess": 1691021791098
+    },
+    "downloader-capcutmp3.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1691021683188,
+      "lastSuccess": 0
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6289671842736@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false,
+      "status": 0
+    }
+  }
+}
